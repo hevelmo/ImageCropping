@@ -128,11 +128,5 @@
 	<script src="lib/jquery.js"></script>
 	<script src="lib/cropper.js"></script>
 	<script src="lib/image-cropping.js"></script>
-	<script type="text/javascript">
-		$("#simpleCropper img").cropper({
-	      preview: "#simpleCropperPreview >.img-preview",
-	      responsive: true
-	    });
-	</script>
 </body>
 </html>
